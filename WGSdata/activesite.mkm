@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Cu", 
+        "metal": "Cu", 
+        "site": "all", 
+        "facet": "111", 
+        "lattice_constant": {
+            "a": 3.66e-10
+        }, 
+        "mass": 63.546, 
+        "struct": "FCC"
+    }
+]

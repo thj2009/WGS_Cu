@@ -1,0 +1,10 @@
+# ignore cache file
+__pycache__/
+.spyproject/
+.idea/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ignore compile file
+*.pyc
+*.pyx

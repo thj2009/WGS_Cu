@@ -1,0 +1,110 @@
+[
+    {
+        "name": "R1", 
+        "dft_data": {
+            "Ef": 0.0, 
+            "omega": 0.0, 
+            "deltaE": -7.7188, 
+            "prefactor": 0.0
+        }
+    }, 
+    {
+        "name": "R2", 
+        "dft_data": {
+            "Ef": 0.0, 
+            "omega": 0.0, 
+            "deltaE": -27.981, 
+            "prefactor": 0.0
+        }
+    }, 
+    {
+        "name": "R3", 
+        "dft_data": {
+            "Ef": 0.0, 
+            "omega": 0.0, 
+            "deltaE": -82.9771, 
+            "prefactor": 0.0
+        }
+    }, 
+    {
+        "name": "R4", 
+        "dft_data": {
+            "Ef": 0.0, 
+            "omega": 0.0, 
+            "deltaE": -20.262, 
+            "prefactor": 0.0
+        }
+    }, 
+    {
+        "name": "R9", 
+        "dft_data": {
+            "Ef": 62.72, 
+            "omega": 0.44, 
+            "deltaE": -108.06, 
+            "prefactor": 2393400000.0
+        }
+    }, 
+    {
+        "name": "R10", 
+        "dft_data": {
+            "Ef": 54.03, 
+            "omega": 0.36, 
+            "deltaE": 13.51, 
+            "prefactor": 934710000.0
+        }
+    }, 
+    {
+        "name": "R11", 
+        "dft_data": {
+            "Ef": 118.68, 
+            "omega": 0.32, 
+            "deltaE": -53.07, 
+            "prefactor": 46585000000.0
+        }
+    }, 
+    {
+        "name": "R12", 
+        "dft_data": {
+            "Ef": 0.0, 
+            "omega": 0.0, 
+            "deltaE": -73.33, 
+            "prefactor": 20028000000.0
+        }
+    }, 
+    {
+        "name": "R14", 
+        "dft_data": {
+            "Ef": 134.11, 
+            "omega": 0.6, 
+            "deltaE": 20.26, 
+            "prefactor": 287600000.0
+        }
+    }, 
+    {
+        "name": "R15", 
+        "dft_data": {
+            "Ef": 162.09, 
+            "omega": 0.88, 
+            "deltaE": 69.47, 
+            "prefactor": 43921000000.0
+        }
+    }, 
+    {
+        "name": "R16", 
+        "dft_data": {
+            "Ef": 58.86, 
+            "omega": 0.65, 
+            "deltaE": 49.21, 
+            "prefactor": 3354700000.0
+        }
+    }, 
+    {
+        "name": "R17", 
+        "dft_data": {
+            "Ef": 83.94, 
+            "omega": 0.31, 
+            "deltaE": -24.12, 
+            "prefactor": 73263000000.0
+        }
+    }
+]

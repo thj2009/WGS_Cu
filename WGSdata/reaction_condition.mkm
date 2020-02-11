@@ -1,0 +1,80 @@
+[
+
+{"type": "CSTR", "name": "Campbell_WGS1", "Temperature": 682.574288, "TotalPressure": 0.0473684, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.0342105, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.422960684}},
+
+{"type": "CSTR", "name": "Campbell_WGS2", "Temperature": 658.7849634, "TotalPressure": 0.0473684, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.0342105, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.253466169}},
+
+{"type": "CSTR", "name": "Campbell_WGS3", "Temperature": 633.1542351, "TotalPressure": 0.0473684, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.0342105, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.155027948}},
+
+{"type": "CSTR", "name": "Campbell_WGS4", "Temperature": 610.2055661, "TotalPressure": 0.0473684, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.0342105, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.098258471}},
+
+{"type": "CSTR", "name": "Campbell_WGS5", "Temperature": 586.5013202, "TotalPressure": 0.0473684, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.0342105, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.039657926}},
+
+{"type": "CSTR", "name": "Campbell_WGS6", "Temperature": 562.6806557, "TotalPressure": 0.0473684, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.0342105, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.029189725}},
+
+{"type": "CSTR", "name": "Campbell_CO1", "Temperature": 612, "TotalPressure": 0.032957895, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.0198, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.109844}},
+
+{"type": "CSTR", "name": "Campbell_CO2", "Temperature": 612, "TotalPressure": 0.047380263, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.034222368, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.099961}},
+
+{"type": "CSTR", "name": "Campbell_CO3", "Temperature": 612, "TotalPressure": 0.09190921, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.078751316, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.096449}},
+
+{"type": "CSTR", "name": "Campbell_CO4", "Temperature": 612, "TotalPressure": 0.137996052, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.124838158, "H2O(g)":  0.0131579, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.099685}},
+
+{"type": "CSTR", "name": "Campbell_H2O1", "Temperature": 612, "TotalPressure": 0.03489, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.034210526, "H2O(g)":  0.000679474, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.010748}},
+
+{"type": "CSTR", "name": "Campbell_H2O2", "Temperature": 612, "TotalPressure": 0.036557895, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.034210526, "H2O(g)":  0.002347368, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.029301}},
+
+{"type": "CSTR", "name": "Campbell_H2O3", "Temperature": 612, "TotalPressure": 0.039361316, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.034210526, "H2O(g)":  0.005150789, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.055452}},
+
+
+{"type": "CSTR", "name": "Campbell_H2O2", "Temperature": 612, "TotalPressure": 0.047280263, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.034222368, "H2O(g)":  0.013057895, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.099961}},
+
+{"type": "CSTR", "name": "Campbell_H2O5", "Temperature": 612, "TotalPressure": 0.055121052, "TotalFlow": 1e6,
+"TotalSite": 1.0, "SimulationTime": 1e6,
+"PartialPressure": {"CO(g)": 0.034210526, "H2O(g)":  0.020910526, "CO2(g)": 0.00, "H2(g)": 0.00},
+"TurnOverFrequency": {"CO(g)": -0.148545}}
+
+
+]
